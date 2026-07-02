@@ -1,0 +1,13 @@
+{
+  "buttons": {
+    "save": "Save",
+    "update": "Update",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "loading": "Saving..."
+  },
+  "status": {
+    "success": "Success",
+    "error": "Error"
+  }
+}
