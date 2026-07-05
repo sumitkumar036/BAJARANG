@@ -1,13 +1,10 @@
 {
-  "buttons": {
-    "save": "Save",
-    "update": "Update",
-    "delete": "Delete",
-    "cancel": "Cancel",
-    "loading": "Saving..."
-  },
-  "status": {
-    "success": "Success",
-    "error": "Error"
-  }
+  "processing": "प्रोसेस हो रहा है...",
+  "back": "वापस जाएँ",
+  "loading": "लोड हो रहा है",
+  "settings": "सेटिंग्स",
+  "data": "डेटा",
+  "securePortal": "सुरक्षित पोर्टल",
+  "version": "संस्करण",
+  "poweredBy": "{APPNAME} सुरक्षा द्वारा संचालित"
 }

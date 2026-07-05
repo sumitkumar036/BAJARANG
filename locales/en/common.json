@@ -1,13 +1,10 @@
 {
-  "buttons": {
-    "save": "Save",
-    "update": "Update",
-    "delete": "Delete",
-    "cancel": "Cancel",
-    "loading": "Saving..."
-  },
-  "status": {
-    "success": "Success",
-    "error": "Error"
-  }
+  "processing": "Processing...",
+  "back": "Go Back",
+  "loading": "Loading",
+  "settings": "Settings",
+  "data": "Data",
+  "securePortal": "Secure Portal",
+  "version": "Version",
+  "poweredBy": "Powered by {APPNAME} Security"
 }
