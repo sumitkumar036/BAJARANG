@@ -6,5 +6,11 @@
   "data": "डेटा",
   "securePortal": "सुरक्षित पोर्टल",
   "version": "संस्करण",
-  "poweredBy": "{APPNAME} सुरक्षा द्वारा संचालित"
+  "poweredBy": "{APPNAME} सुरक्षा द्वारा संचालित",
+  "email": "ईमेल",
+  "password": "पासवर्ड",
+  "userName": "उपयोगकर्ता नाम",
+  "dateOfBirth": "जन्म तिथि",
+  "mobile":"मोबाइल"
+
 }
