@@ -1,0 +1,15 @@
+{
+  "processing": "Processing...",
+  "back": "Go Back",
+  "loading": "Loading",
+  "settings": "Settings",
+  "data": "Data",
+  "securePortal": "Secure Portal",
+  "version": "Version",
+  "poweredBy": "Powered by {APPNAME} Security",
+  "email": "Email",
+  "password": "Password",
+  "userName": "User Name",
+  "dateOfBirth":"Date Of Birth",
+  "mobile":"Mobile"
+}
